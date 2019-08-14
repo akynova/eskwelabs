@@ -36,7 +36,7 @@ Optionally, it would be exciting to actually implement a "live" system based on 
 
 ## Milestones
 
-### Week 3 (05/27): Question and Data Set(s)
+### Milestone 1: Question and Data Set(s)
 
 What is the question you hope to answer? What data are you planning to use to answer that question? What do you know about the data so far? Why did you choose this topic?
 
@@ -46,7 +46,7 @@ Example:
 * I know that many of the fields have missing values, that some of the text fields are messy and will require cleaning, and that about 38% of the passengers in the training set survive.
 * I chose this topic because I'm fascinated by the history of the Titanic.
 
-### Week 4 (06/08): Data Exploration and Analysis Plan
+### Milestone 2: Data Exploration and Analysis Plan
 
 What data have you gathered, and how did you gather it? What steps have you taken to explore the data? Which areas of the data have you cleaned, and which areas still need cleaning? What insights have you gained from your exploration? Will you be able to answer your question with this data, or do you need to gather more data (or adjust your question)? How might you use modeling to answer your question?
 
@@ -58,14 +58,14 @@ Example:
 * I analyzed the differences between the training and testing sets, and found that the average fare was slightly higher in the testing set.
 * Since I'm predicting a binary outcome, I plan to use a classification method such as logistic regression to make my predictions.
 
-### Week 5 (06/15): First Draft Due
+### Milestone 3: First Draft Due
 
 Submit a rough copy of your work so far, including code, narrative, and visualizations. Describe your successess and challenges, and provide a detailed plan going forwards. Your peers and instructors will provide feedback.
 
-### Week 6 (06/22): Second Draft Due
+### Milestone 4: Second Draft Due
 
 Submit a more polished version of your work, including drafts of your paper and your presentation. Your instructors will provide feedback.
 
-### Week 7 (06/29): Presentation
+### Milestone 5: Presentation
 
 Deliver your project presentation and submit all required deliverables (paper, slides, code, data, and data dictionary).
